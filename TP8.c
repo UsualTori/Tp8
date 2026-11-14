@@ -1,4 +1,4 @@
-//https://github.com/UsualTori/Tp8.git
+//https://github.com/UsualTori/Tp8/blob/main/TP8.c
 
 #include <stdio.h>
 #include <stdlib.h>
